@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  background-color: blue;
+  
+  }
+
+
+main {
+  background-color: white;
+  height: 600px;
+  margin: 15px;
+  padding: 20px;
+}
